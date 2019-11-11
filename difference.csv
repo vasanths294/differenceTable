@@ -1,0 +1,7 @@
+Interface,Abstract class
+, Partial Implementation 
+,we know how to develop getSalary() but we don't know how to develop getEmpInfo() 
+"EmployeeApp {
+   getSalary()
+   getEmpInfo()
+}",
